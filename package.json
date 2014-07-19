@@ -1,0 +1,23 @@
+{
+  "name": "metalsmith-textile",
+  "description": "A Metalsmith plugin to convert textile files.",
+  "version": "0.2.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "textile-js": "~0.1.8",
+    "debug": "~0.7.4"
+  },
+  "devDependencies": {
+    "mocha": "1.x",
+    "metalsmith": "0.x",
+    "assert-dir-equal": "0.x"
+  },
+  "readme": "\n# metalsmith-textile\n\n  A Metalsmith plugin to convert textile files.\n\n## Installation\n\n    $ npm install metalsmith-textile\n\n## CLI Usage\n\n  Install via npm and then add the `metalsmith-textile` key to your `metalsmith.json` plugins, like so:\n\n```json\n{\n  \"plugins\": {\n    \"metalsmith-textile\": {}\n  }\n}\n```\n\n## Javascript Usage\n## License\n\n  MIT",
+  "readmeFilename": "Readme.md",
+  "bugs": {
+    "url": "https://github.com/segmentio/metalsmith-textile/issues"
+  },
+  "_id": "metalsmith-textile@0.2.1",
+  "_from": "metalsmith-textile@"
+}
