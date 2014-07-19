@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-textile",
   "description": "A Metalsmith plugin to convert textile files.",
-  "version": "0.2.1",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
@@ -18,6 +18,6 @@
   "bugs": {
     "url": "https://github.com/segmentio/metalsmith-textile/issues"
   },
-  "_id": "metalsmith-textile@0.2.1",
+  "_id": "metalsmith-textile@0.0.1",
   "_from": "metalsmith-textile@"
 }
